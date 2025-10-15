@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43829310739",
+    "project_id": "push-noti-d6853",
+    "storage_bucket": "push-noti-d6853.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43829310739:android:7722af56c078f4cab656e6",
+        "android_client_info": {
+          "package_name": "com.example.firebase_noti_tes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHmmkt68AVgcusN9G7TqdnFEhW1V8mGj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
